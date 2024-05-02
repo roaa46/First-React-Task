@@ -1,0 +1,19 @@
+div {
+    font-family: "Abel", sans-serif;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+div button{
+    background-color: #ad8746 !important;
+    color: antiquewhite;
+    font-weight: bold;
+    border: 1px solid;
+    box-sizing: border-box;
+}
+h1{
+    color: black;
+    text-align: center;
+    margin-top: 30%;
+    margin-bottom: 30%;
+}

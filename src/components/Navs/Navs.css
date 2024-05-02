@@ -1,0 +1,20 @@
+nav{
+    background-color: antiquewhite;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    border-radius: 0px;
+}
+nav a{
+    color: #0a1832 !important;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-right: 5px;
+}
+nav img{
+    max-width: 15%;
+    max-height: 13%;
+    margin-left: 0%;
+}
